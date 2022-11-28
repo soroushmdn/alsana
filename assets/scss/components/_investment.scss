@@ -1,0 +1,21 @@
+.investment {
+  .investment__container {
+    margin-top: 4rem;
+  }
+
+  .investment__data {
+    display: grid;
+    justify-items: center;
+    align-content: flex-start;
+    text-align: center;
+    gap: 1rem;
+
+    img {
+      width: 100px;
+    }
+
+    h3 {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
